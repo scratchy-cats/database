@@ -1,5 +1,7 @@
 [workspace]
-members = []
+members = [
+	"primitives/kv-store"
+]
 resolver = "2"
 
 [workspace.dependencies]

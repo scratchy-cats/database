@@ -1,4 +1,4 @@
-# Implementing Bloom Filter from scratch
+# Bloom Filter implementation
 
 ## REFERENCES
 

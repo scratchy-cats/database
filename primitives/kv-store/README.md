@@ -1,4 +1,4 @@
-# Implementing KV Store from scratch
+# KV Store implementation
 
 ## TODOS
 
@@ -6,8 +6,10 @@
 
 Implement :
 
-- [x] Arena Allocator (need to write tests).
+- [x] Arena Allocator (need to write tests)
 - [ ] SkipList
+- [ ] MemTable
+- [ ] WAL (Write Ahead Log)
 
 ## REFERENCES
 

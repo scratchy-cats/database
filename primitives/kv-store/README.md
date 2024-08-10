@@ -1,4 +1,4 @@
-# KV Store implementation
+# KV Store Implementation
 
 ## TODOS
 
@@ -6,7 +6,7 @@
 
 Implement :
 
-- [x] Arena Allocator (need to write tests)
+- [x] Arena Allocator (currently not thread safe | need to write tests)
 - [ ] SkipList
 - [ ] MemTable
 - [ ] WAL (Write Ahead Log)
@@ -22,3 +22,5 @@ Implement :
 - [Arc and Mutex in Rust](https://itsallaboutthebit.com/arc-mutex/)
 
 - [The Secret Sauce Behind NoSQL: LSM Tree](https://youtu.be/I6jB0nM9SKU)
+
+- [Understanding when and how to use Memory Mapped Files](https://mecha-mind.medium.com/understanding-when-and-how-to-use-memory-mapped-files-b94707df30e9)

@@ -1,9 +1,0 @@
-[package]
-name = "kv-store"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
-bytes = "1.7.1"
-memmap2 = "0.9.4"
-thiserror = "1.0.63"

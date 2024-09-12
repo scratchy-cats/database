@@ -1,5 +1,5 @@
 [workspace]
-members = ["primitives/mini-lsm"]
+members = ["primitives/mini-lsm", "primitives/type-exercises"]
 resolver = "2"
 
 [workspace.dependencies]
